@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1439356304 source:e:\code\c language\linkstack\main.c
+	<stdio.h>
+	<stdlib.h>
+
